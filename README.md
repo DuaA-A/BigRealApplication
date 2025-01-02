@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BigNumber Library</title>
+<!--     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+<!--     <title>BigNumber Library</title>
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f9f9f9; color: #333; }
         header { background-color: #0078d7; color: white; padding: 1rem 0; text-align: center; }
@@ -12,7 +12,7 @@
         code { background: #f4f4f4; padding: 0.2rem 0.4rem; border-radius: 5px; }
         pre { background: #f4f4f4; padding: 1rem; border-left: 5px solid #0078d7; overflow-x: auto; }
         footer { text-align: center; margin-top: 2rem; font-size: 0.8rem; color: #777; }
-    </style>
+    </style> -->
 </head>
 <body>
     <header>
