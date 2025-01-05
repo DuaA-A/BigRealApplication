@@ -16,7 +16,7 @@
 </head>
 <body>
     <header>
-        <h1>BigNumber Library</h1>
+        <h1>Big Real Application</h1>
         <p>Handle large decimal and real numbers with ease.</p>
     </header>
     <main>
